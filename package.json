@@ -1,0 +1,28 @@
+{
+  "name": "type.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "p5": "^1.11.2",
+    "p5-svelte": "^2.2.2",
+    "random-words": "^2.0.1",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1",
+    "svelte-routing": "^2.13.0"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^4.0.0",
+    "@types/p5": "^1.7.6",
+    "svelte": "^5.1.15",
+    "vite": "^5.4.11"
+  },
+  "type": "module",
+  "description": ""
+}
